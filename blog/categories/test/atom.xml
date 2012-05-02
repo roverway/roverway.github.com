@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[2012.05.02]]></title>
-  <link href="http://roverway.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | 2012.05.02]]></title>
+  <link href="http://roverway.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://roverway.github.com/"/>
   <updated>2012-05-02T23:09:20+08:00</updated>
   <id>http://roverway.github.com/</id>
@@ -19,7 +19,7 @@
     <updated>2012-05-02T23:07:00+08:00</updated>
     <id>http://roverway.github.com/blog/2012/05/02/test</id>
     <content type="html"><![CDATA[<p>*** test
-&#8211; test</p>
+-- test</p>
 
 <p>OK?</p>
 ]]></content>
