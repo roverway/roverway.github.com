@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[2012.05.02]]></title>
-  <link href="http://roverway.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rabish | 2012.05.02]]></title>
+  <link href="http://roverway.github.com/blog/categories/rabish/atom.xml" rel="self"/>
   <link href="http://roverway.github.com/"/>
   <updated>2012-05-03T00:01:41+08:00</updated>
   <id>http://roverway.github.com/</id>
@@ -21,18 +21,6 @@
     <content type="html"><![CDATA[<p>心情非常烦躁，浪费了时间，好多事要做，她的不理解。种种。
 我知道我该看开点，该向前看。
 所以，这篇文字就当时测试中文了。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://roverway.github.com/blog/2012/05/02/test/"/>
-    <updated>2012-05-02T23:07:00+08:00</updated>
-    <id>http://roverway.github.com/blog/2012/05/02/test</id>
-    <content type="html"><![CDATA[<p>*** test
-&#8211; test</p>
-
-<p>OK?</p>
 ]]></content>
   </entry>
   
