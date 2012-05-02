@@ -7,4 +7,7 @@ sharing: true
 footer: true
 ---
 
-Roverway, a learner of many things.
+Roverway, a learner of many things, such as programming, english, psychology, reading, etc.
+
+He always work hard and believed that his life will become more and more happy.
+
