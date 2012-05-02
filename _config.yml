@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://roverway.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 2012.05.02
+subtitle: 
+author: roverway
 simple_search: http://google.com/search
-description:
+description: 记录
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
